@@ -1,5 +1,7 @@
 #Created 6-6-23
 Files:
+epair.dat: The pair potential energy of each corresponding simulation.
+Formatted as timestep \t E_pair (kcal/mol) \t Temperature (K)
 
 Directories:
 
